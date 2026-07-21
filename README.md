@@ -11,6 +11,9 @@
 
   <!-- Quick Badges -->
   <p align="center">
+    <a href="https://www.linkedin.com/in/harshit-kikani-5314a1256">
+      <img src="https://img.shields.io/badge/LinkedIn-harshit--kikani--5314a1256-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="mailto:harshitkikani9081@gmail.com">
       <img src="https://img.shields.io/badge/Email-harshitkikani9081%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
@@ -172,6 +175,7 @@ Highly motivated and results-driven **Senior Flutter Developer** & **Full-Stack 
 
 <div align="center">
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--kikani--5314a1256-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kikani-5314a1256)
   [![Gmail](https://img.shields.io/badge/Email-harshitkikani9081%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkikani9081@gmail.com)
   [![Website](https://img.shields.io/badge/VaultPic-vaultpic.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaultpic.com)
   [![GitHub](https://img.shields.io/badge/GitHub-KHKikani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHKikani)
