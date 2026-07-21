@@ -156,14 +156,13 @@ Highly motivated and results-driven **Senior Flutter Developer** & **Full-Stack 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHKikani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHKikani&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=KHkikani&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHKikani&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHkikani&theme=react-dark" alt="GitHub Contribution Graph" />
 </div>
 
 ---
