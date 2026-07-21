@@ -156,7 +156,8 @@ Highly motivated and results-driven **Senior Flutter Developer** & **Full-Stack 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KHkikani&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHkikani&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHkikani&theme=tokyonight" alt="Repos Per Language" />
 </div>
 
 <br />
